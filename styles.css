@@ -21,6 +21,7 @@ html,
 body {
     background-color: var(--stone100);
     font-family: "Outfit", sans-serif;
+    color: var(--stone600);
 }
 
 h1,
