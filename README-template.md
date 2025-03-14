@@ -18,12 +18,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
 - Solution URL: (https://github.com/socratesioa/recipe-page)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://socratesioa.github.io/recipe-page)
 
 ## My process
 
