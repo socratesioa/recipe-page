@@ -163,15 +163,6 @@ p {
     font-weight: 700;
 }
 
-.attribution {
-    margin: 16px auto;
-    font-size: 11px;
-    text-align: center;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
-  }
-
 @media (max-width: 375px) {
     h1 {
         font-size: 36px;
